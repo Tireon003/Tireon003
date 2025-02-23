@@ -1,16 +1,18 @@
-## Hi there 👋
+I'm a Backend Developer with a bit experience in Frontend. 
 
-<!--
-**Tireon003/Tireon003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My stack
 
-Here are some ideas to get you started:
+- **Programming languages**: Python, JavaScript.
+- **Frameworks**: FastAPI, Flask, Django (learning), React.
+- **Tools**: Git, Docker, PyCharm, Linux.
+- **Databases**: PostgreSQL, Redis, SQLite.
+- **Others**: SQLAlchemy, Pydantic, Alembic, Pika, Celery, OpenAI Swarm, PydanticAI, Pytest, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Статистика GitHub
+![Статистика](https://github-readme-stats.vercel.app/api?username=Tireon003&show_icons=true&theme=dark)
+
+### Contacts
+- Email: gunash29@mail.ru
+- LinkedIn: https://www.linkedin.com/in/gunash-magomedov-474035348/
+- Telegram: https://t.me/noerit

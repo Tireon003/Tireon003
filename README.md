@@ -6,7 +6,7 @@ I'm a Backend Developer with a bit experience in Frontend.
 - **Frameworks**: FastAPI, Flask, Django (learning), React.
 - **Tools**: Git, Docker, PyCharm, Linux.
 - **Databases**: PostgreSQL, Redis, SQLite.
-- **Others**: SQLAlchemy, Pydantic, Alembic, Pika, Celery, OpenAI Swarm, PydanticAI, Pytest, FastStream, etc.
+- **Others**: RabbitMQ, SQLAlchemy, Pydantic, Alembic, Pika, Celery, OpenAI Swarm, PydanticAI, Pytest, FastStream, etc.
 
 
 ### Статистика GitHub

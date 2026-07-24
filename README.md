@@ -1,25 +1,19 @@
-I'm a Backend Developer with a bit experience in Frontend. 
+### About me
+My name is Gunash. I am amazing FullStack Python Engineer with wide experience in product development.
 
-### My stack
+### Hard Skills
 
-- **Programming languages**: Python, JavaScript
-- **Frameworks**: FastAPI, Flask, Django (learning), React
-- **ORM & migrations**: SQLAlchemy, Alembic, Beanie
-- **Deploy**: Linux, Gunicorn, Nginx, Docker, docker-compose
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, SQLite
-- **Background tasks**: Celery (beat, cron), FastStream
-- **Brokers and tools**: RabbitMQ, Pika
-- **AI tools**: PydanticAI, OpenAI Swarm, Ollama
-- **Validation**: Pydantic
-- **Testing**: Pytest, Selenium
-- **Others**: Mypy, Black Formatter
-- **Tools**: Git, PyCharm
+Python 3.9+, RabbitMQ, SQL, Redis, Docker, Nginx, TCP/IP, CI/CD, Git, System Analysis, Architecture, Prompt engineering, Loop engineering etc... The list is really would be large if I did not stop, so I enumerated shortenly))
 
+### Tools
 
-### Статистика GitHub
-![Статистика](https://github-readme-stats.vercel.app/api?username=Tireon003&show_icons=true&theme=dark)
+VSCode, Claude Code, ChatGPT Codex, Multiagent Orchestration using modern paradigms.
 
 ### Contacts
 - Telegram: https://t.me/noerit
 - Email: gunash29@mail.ru
 - LinkedIn: https://www.linkedin.com/in/gunash-magomedov-474035348/
+
+Open to job offers!
+
+P.S. You see no fresh activity in GitHub because I work on private projects. Appreciate your understanding!
